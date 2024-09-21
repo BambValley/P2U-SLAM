@@ -16,10 +16,7 @@ The pipeline of P2U-SLAM. P2U-SLAM mainly consists of initialization, tracking, 
 
 ## Experiments
 P2U-SLAM is evaluated on two open-source wide-FoV SLAM dataset.
-
 <img src="fig\ATE_PALVIO.png" alt="ATE_PALVIO" style="zoom: 100%;" />
 The ATE results of serveral algorithms on [PALVIO](https://github.com/flysoaryun/LF-VIO) dataset. Each algorithm runs a total of ten times on each sequence, with the results of each run represented by the color squares. A higher red component in the square indicates a worse result in the corresponding metric test, while a greater blue component signifies better performance. An incomplete run is represented by a blank white square.
-
 <img src="fig\TUM_Robust.png" alt="TUM_Robust" style="zoom: 100%;" />
-Stability comparison on sequences from [TUM-VI dataset](https://vision.in.tum.de/data/datasets/visual-inertial-dataset). Each node
-on the line chart corresponds to a sequence in the dataset.
+Stability comparison on sequences from [TUM-VI dataset](https://vision.in.tum.de/data/datasets/visual-inertial-dataset). Each node on the line chart corresponds to a sequence in the dataset.
