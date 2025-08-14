@@ -1,6 +1,9 @@
 ## P2U-SLAM: A Monocular Wide-FoV SLAM System Based on Point Uncertainty and Pose Uncertainty [[PDF]](https://export.arxiv.org/abs/2409.10143)
 Yufan Zhang, [Kailun Yang](https://yangkailun.com), Ze Wang, [Kaiwei Wang](http://wangkaiwei.org/)
 
+## Video
+### P2U-SLAM run on [TUM-VI dataset](https://vision.in.tum.de/data/datasets/visual-inertial-dataset) Corridor4 
+https://github.com/user-attachments/assets/f67d0a8a-8ea0-4472-806c-88f91d9848a7
 
 ## Method
 Illustrations of situations in which point and pose uncertainty are
@@ -12,7 +15,7 @@ applied.
 
 ## Pipline
 <img src="fig\pipline.png" alt="pipline" style="zoom: 80%;" />
-The pipeline of P2U-SLAM. P2U-SLAM mainly consists of initialization, tracking, local BA, and loop closing. Point uncertainty functions in the tracking module to suppress the noise from treating past map points as measurement results on the current frame¡¯s pose estimation. Pose uncertainty acts on the local BA module to suppress the noise from treating fixed keyframe poses as measurement results on other variables to estimate.
+The pipeline of P2U-SLAM. P2U-SLAM mainly consists of initialization, tracking, local BA, and loop closing. Point uncertainty functions in the tracking module to suppress the noise from treating past map points as measurement results on the current frameÂ¡Â¯s pose estimation. Pose uncertainty acts on the local BA module to suppress the noise from treating fixed keyframe poses as measurement results on other variables to estimate.
 
 ## Experiments
 P2U-SLAM is evaluated on two open-source wide-FoV SLAM dataset.
