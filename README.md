@@ -2,12 +2,14 @@
 Yufan Zhang, [Kailun Yang](https://yangkailun.com), Ze Wang, [Kaiwei Wang](http://wangkaiwei.org/)
 
 ## Video (speed ×3)
-### P2U-SLAM run on [TUM-VI dataset](https://vision.in.tum.de/data/datasets/visual-inertial-dataset) Corridor4 
+### P2U-SLAM run on [TUM-VI Benchmark](https://vision.in.tum.de/data/datasets/visual-inertial-dataset)  
 Sequence Corridor4 includes a scenario of rapid back-and-forth movement in a corridor, which poses a moderate challenge to the accumulated error and scale consistency of SLAM systems.
 
-<img src="https://github.com/user-attachments/assets/43908625-4372-428a-9669-6fe9e13c7cce" width="60%" alt="corridor4">
+| Corridor4 | Magistrale3 |
+|-------|-------|
+| <video src="https://github.com/user-attachments/assets/43908625-4372-428a-9669-6fe9e13c7cce" width="100%" controls></video> | <video src="https://github.com/user-attachments/assets/43908625-4372-428a-9669-6fe9e13c7cce" width="100%" controls></video> |
 
-### P2U-SLAM run on [PAL-VIO dataset](https://github.com/flysoaryun/LF-VIO) IDL01
+### P2U-SLAM run on [PAL-VIO-EX](https://github.com/flysoaryun/LF-VISLAM)) IDL01
 
 This is the recording result of our team's test in a large-scale indoor scene, with a total distance exceeding 1km. The starting point and endpoint of the route coincide, and at the end of the video, it can be seen that the initial keyframe (red) perfectly overlaps with the final frame (green) of the camera. (The loop module was not triggered throughout the entire tracking process)
 
