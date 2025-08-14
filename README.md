@@ -1,7 +1,7 @@
 ## P2U-SLAM: A Monocular Wide-FoV SLAM System Based on Point Uncertainty and Pose Uncertainty [[PDF]](https://export.arxiv.org/abs/2409.10143)
 Yufan Zhang, [Kailun Yang](https://yangkailun.com), Ze Wang, [Kaiwei Wang](http://wangkaiwei.org/)
 
-## Video
+## Video (speed ×3)
 ### P2U-SLAM run on [TUM-VI dataset](https://vision.in.tum.de/data/datasets/visual-inertial-dataset) Corridor4 
 Sequence Corridor4 includes a scenario of rapid back-and-forth movement in a corridor, which poses a moderate challenge to the accumulated error and scale consistency of SLAM systems.
 
