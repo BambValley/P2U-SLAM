@@ -7,7 +7,7 @@ Sequence Corridor4 includes a scenario of rapid back-and-forth movement in a cor
 
 | Corridor4 | Magistrale3 |
 |-------|-------|
-| <video src="https://github.com/user-attachments/assets/43908625-4372-428a-9669-6fe9e13c7cce" width="100%" controls></video> | <video src="fig\P2U-SLAM--TUM-VI-Magistrale3" width="100%" controls></video> |
+| <video src="https://github.com/user-attachments/assets/43908625-4372-428a-9669-6fe9e13c7cce" width="100%" controls></video> | <video src="fig\P2U-SLAM--PALVIO-IDL01.mp4" width="100%" controls></video> |
 
 ### P2U-SLAM run on [PAL-VIO-EX](https://github.com/flysoaryun/LF-VISLAM)) IDL01
 
