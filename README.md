@@ -7,7 +7,7 @@ Sequence Corridor4 includes a scenario of rapid back-and-forth movement in a cor
 
 https://github.com/user-attachments/assets/f67d0a8a-8ea0-4472-806c-88f91d9848a7
 
-### P2U-SLAM run on [LF-VIO dataset]([https://vision.in.tum.de/data/datasets/visual-inertial-dataset](https://github.com/flysoaryun/LF-VIO)) IDL01
+### P2U-SLAM run on [PAL-VIO dataset](https://github.com/flysoaryun/LF-VIO) IDL01
 
 This is the recording result of our team's test in a large-scale indoor scene, with a total distance exceeding 1km. The starting point and endpoint of the route coincide, and at the end of the video, it can be seen that the initial keyframe perfectly overlaps with the final frame of the camera.
 
