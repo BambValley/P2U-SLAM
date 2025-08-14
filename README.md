@@ -5,7 +5,7 @@ Yufan Zhang, [Kailun Yang](https://yangkailun.com), Ze Wang, [Kaiwei Wang](http:
 ### P2U-SLAM run on [TUM-VI dataset](https://vision.in.tum.de/data/datasets/visual-inertial-dataset) Corridor4 
 Sequence Corridor4 includes a scenario of rapid back-and-forth movement in a corridor, which poses a moderate challenge to the accumulated error and scale consistency of SLAM systems.
 
-https://github.com/user-attachments/assets/f67d0a8a-8ea0-4472-806c-88f91d9848a7
+https://github.com/user-attachments/assets/43908625-4372-428a-9669-6fe9e13c7cce
 
 ### P2U-SLAM run on [PAL-VIO dataset](https://github.com/flysoaryun/LF-VIO) IDL01
 
