@@ -3,9 +3,18 @@ Yufan Zhang, [Kailun Yang](https://yangkailun.com), Ze Wang, [Kaiwei Wang](http:
 
 ## Video
 ### P2U-SLAM run on [TUM-VI dataset](https://vision.in.tum.de/data/datasets/visual-inertial-dataset) Corridor4 
-Sequence Corridor4 includes a scenario of rapid back-and-forth movement in a corridor, posing a moderate challenge to the robustness and accumulated error of SLAM.
+Sequence Corridor4 includes a scenario of rapid back-and-forth movement in a corridor, which poses a moderate challenge to the accumulated error and scale consistency of SLAM systems.
 
 https://github.com/user-attachments/assets/f67d0a8a-8ea0-4472-806c-88f91d9848a7
+
+### P2U-SLAM run on [LF-VIO dataset]([https://vision.in.tum.de/data/datasets/visual-inertial-dataset](https://github.com/flysoaryun/LF-VIO)) IDL01
+
+This is the recording result of our team's test in a large-scale indoor scene, with a total distance exceeding 1km. The starting point and endpoint of the route coincide, and at the end of the video, it can be seen that the initial keyframe perfectly overlaps with the final frame of the camera.
+
+
+https://github.com/user-attachments/assets/37a2e36d-c819-4df3-9fd9-a3e18c2fe2c0
+
+
 
 ## Method
 Illustrations of situations in which point and pose uncertainty are
