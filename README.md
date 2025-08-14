@@ -11,7 +11,7 @@ While the sequence Magistrale3 corresponds to a large - scale indoor loop trajec
 |-------|-------|
 | <video src="https://github.com/user-attachments/assets/43908625-4372-428a-9669-6fe9e13c7cce" width="100%" controls></video> | <video src="https://github.com/user-attachments/assets/128c121b-635a-417f-8266-2295277df44e" controls></video> |
 
-### P2U-SLAM run on [PALVIO-EX](https://github.com/flysoaryun/LF-VISLAM)) IDL01
+### P2U-SLAM run on [PALVIO-EX Dataset](https://github.com/flysoaryun/LF-VISLAM) IDL01
 
 This is the recording result of our team's test in a large-scale indoor scene, with a total distance exceeding 1km. The starting point and endpoint of the route coincide, and at the end of the video, it can be seen that the initial keyframe (red) perfectly overlaps with the final frame (green) of the camera. (The loop module was not triggered throughout the entire tracking process)
 
