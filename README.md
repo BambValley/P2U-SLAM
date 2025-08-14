@@ -9,10 +9,9 @@ https://github.com/user-attachments/assets/43908625-4372-428a-9669-6fe9e13c7cce
 
 ### P2U-SLAM run on [PAL-VIO dataset](https://github.com/flysoaryun/LF-VIO) IDL01
 
-This is the recording result of our team's test in a large-scale indoor scene, with a total distance exceeding 1km. The starting point and endpoint of the route coincide, and at the end of the video, it can be seen that the initial keyframe perfectly overlaps with the final frame of the camera.
+This is the recording result of our team's test in a large-scale indoor scene, with a total distance exceeding 1km. The starting point and endpoint of the route coincide, and at the end of the video, it can be seen that the initial keyframe (red) perfectly overlaps with the final frame (green) of the camera.
 
-
-https://github.com/user-attachments/assets/37a2e36d-c819-4df3-9fd9-a3e18c2fe2c0
+https://github.com/user-attachments/assets/030e418a-4d1f-4c8f-932e-4702a7c2cdd2
 
 
 
